@@ -1,1 +1,3 @@
 # MediBot
+
+This notebook presents the development of “MediBot,” an AI-driven symptom checker and medical advisory system. It integrates multiple datasets for symptom matching, descriptions, precautions, and severity analysis. By employing a vector store (FAISS), advanced embeddings, and specialized agents, the system can predict likely diseases, determine symptom severity, provide clear explanations, and offer precautionary measures. Users interact with the model through a Gradio interface, allowing a conversational workflow for more user-friendly self-evaluation and preliminary guidance on potential health conditions.
